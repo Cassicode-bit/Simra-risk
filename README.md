@@ -49,8 +49,8 @@ The project depends on Python packages listed in requirements.txt. A typical set
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/Cassicode-bit/Simra-risk>
-   cd simra-risk-berlin-source
+   git clone https://github.com/Cassicode-bit/Simra-risk.git
+   cd Simra-risk
    ```
 
 2. Create and activate a Python environment:
@@ -58,14 +58,11 @@ The project depends on Python packages listed in requirements.txt. A typical set
    ```bash
    python -m venv .venv
    source .venv/bin/activate
-   ```
 
    On Windows PowerShell:
 
-   ```powershell
    python -m venv .venv
    .\.venv\Scripts\Activate.ps1
-   ```
 
 3. Install dependencies:
 
@@ -149,8 +146,8 @@ Dieses Repository enthält:
 1. Repository klonen:
 
    ```bash
-   git clone <https://github.com/Cassicode-bit/Simra-risk>
-   cd simra-risk-berlin-source
+   git clone https://github.com/Cassicode-bit/Simra-risk.git
+   cd Simra-risk
    ```
 
 2. Virtuelle Umgebung anlegen und aktivieren:
