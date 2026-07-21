@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+data/routing/bezirke/
+cache/
+data/sample_2024/*.csv

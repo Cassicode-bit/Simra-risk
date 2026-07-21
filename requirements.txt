@@ -1,0 +1,11 @@
+streamlit
+pydeck
+psycopg2-binary
+pandas
+python-dotenv
+geopandas
+requests
+shapely
+osmnx
+networkx
+tqdm
