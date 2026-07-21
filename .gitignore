@@ -5,4 +5,4 @@ __pycache__/
 *.pyc
 data/routing/bezirke/
 cache/
-data/sample_2024/*.csv
+

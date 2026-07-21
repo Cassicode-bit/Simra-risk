@@ -1,0 +1,13 @@
+bezirk_name,total_incidents,incidents_external,incidents_inattention,incidents_other,incidents_scary,incidents_not_scary,total_km,incident_rate
+Mitte,9763,8670,933,160,3185,6578,49926.9,0.1955
+Charlottenburg-Wilmersdorf,2084,1537,463,84,269,1815,19441.66,0.1072
+Friedrichshain-Kreuzberg,2179,1747,368,64,820,1359,23515.91,0.0927
+Pankow,655,540,60,55,119,536,11039.72,0.0593
+Steglitz-Zehlendorf,521,308,152,61,54,467,11299.32,0.0461
+Treptow-Köpenick,491,339,125,27,229,262,11182.94,0.0439
+Tempelhof-Schöneberg,474,322,130,22,123,351,12501.69,0.0379
+Reinickendorf,122,99,12,11,43,79,4184.22,0.0292
+Neukölln,310,265,30,15,84,226,11348.35,0.0273
+Lichtenberg,125,88,30,7,30,95,5602.25,0.0223
+Spandau,17,12,2,3,6,11,1678.66,0.0101
+Marzahn-Hellersdorf,14,13,0,1,10,4,2319.99,0.006

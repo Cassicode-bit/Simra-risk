@@ -79,12 +79,7 @@ The project depends on Python packages listed in requirements.txt. A typical set
 
 ## Downloading the sample data
 
-The project requires a sample GPS dataset (`gps_traces_2024.csv`, ~129 MB) for testing and visualization. This file is **not included in the repository** due to its size.
-
-Download the CSV file from Google Drive and place it in `data/sample_2024/`:
-- **Link**: [Download gps_traces_2024.csv](https://drive.google.com/drive/folders/1vCqm_euCOgn5YAmlFlqgx82bhRc08Rg3?usp=sharing)
-
-The geospatial data (`data/bezirke/berlin_bezirke.geojson`) is already included in the repository as it is lightweight.
+The project includes a sample GPS dataset (`data/sample_2024/gps_traces_2024.csv`) directly in the repository. No additional download is required.
 
 ## Environment variables
 
@@ -182,14 +177,9 @@ Dieses Repository enthält:
 
    Kopiere [.env.example](.env.example) nach .env und ersetze die Platzhalterwerte durch eigene lokale Einstellungen.
 
-### Herunterladen der Beispieldaten
+## Beispieldaten
 
-Das Projekt benötigt einen Beispiel-GPS-Datensatz (`gps_traces_2024.csv`, ~129 MB) für Tests. Diese Datei ist **nicht im Repository enthalten** aufgrund ihrer Größe.
-
-Lade die CSV-Datei von Google Drive herunter und lege sie in `data/sample_2024/` ab:
-- **Link**: [gps_traces_2024.csv herunterladen](https://drive.google.com/drive/folders/1vCqm_euCOgn5YAmlFlqgx82bhRc08Rg3?usp=sharing)
-
-Die Geodaten (`data/bezirke/berlin_bezirke.geojson`) sind bereits im Repository enthalten, da sie klein sind.
+Das Projekt enthält einen Beispiel-GPS-Datensatz (`data/sample_2024/gps_traces_2024.csv`) direkt im Repository. Ein separater Download ist nicht erforderlich.
 
 ### Umgebungsvariablen
 
