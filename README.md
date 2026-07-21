@@ -49,8 +49,8 @@ The project depends on Python packages listed in requirements.txt. A typical set
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd Projekt_Geodaten_haltung_Vernetzung
+   git clone <https://github.com/Cassicode-bit/Simra-risk>
+   cd simra-risk-berlin-source
    ```
 
 2. Create and activate a Python environment:
@@ -149,8 +149,8 @@ Dieses Repository enthält:
 1. Repository klonen:
 
    ```bash
-   git clone <your-repository-url>
-   cd Projekt_Geodaten_haltung_Vernetzung
+   git clone <https://github.com/Cassicode-bit/Simra-risk>
+   cd simra-risk-berlin-source
    ```
 
 2. Virtuelle Umgebung anlegen und aktivieren:
